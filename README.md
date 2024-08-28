@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![tyufjvbn2's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyufjvbn2)](https://github.com/tyufjvbn2/github-readme-stats)
 
 <!--
 **tyufjvbn2/tyufjvbn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
