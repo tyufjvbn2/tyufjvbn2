@@ -1,12 +1,7 @@
 # Profile
 
-## Github stats
-
 [![tyufjvbn2's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyufjvbn2&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only)](https://github.com/tyufjvbn2/github-readme-stats#gh-dark-mode-only)
-
-<!-- ![tyufjvbn2's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyufjvbn2&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only) -->
-
-##
+[![tyufjvbn2's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyufjvbn2&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)](https://github.com/tyufjvbn2/github-readme-stats#gh-light-mode-only)
 
 <!--
 **tyufjvbn2/tyufjvbn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
