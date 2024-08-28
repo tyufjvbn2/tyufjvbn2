@@ -7,6 +7,10 @@
 
 ---
 
+### Certifications
+
+![AWS Certification](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+
 <!-- http://img.shields.io/badge/ -->
 
 <!--
