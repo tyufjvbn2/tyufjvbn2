@@ -9,8 +9,9 @@
 
 ### Certifications
 
-<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="200">
-
+<a href="https://www.credly.com/badges/b16d1b58-cf76-47f2-bc44-7995e3e0f242/public_url">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="200">
+</a>
 <!-- http://img.shields.io/badge/ -->
 
 <!--
